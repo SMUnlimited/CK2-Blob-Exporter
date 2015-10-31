@@ -12,9 +12,11 @@ exported into EU4 taking over the world. Medium crown authority is supposed
 to represent both the crown and vassals having balanced power so this 
 represents they still have equal say once the medieval age is ending. 
 
-Works with ck2 version 2.3.5, 2.4.1 
+Works with ck2 version 2.4.5 and EU4 1.13
 "Provided for fun by The Strategy Master"
 
 ## Change Log
+V1.2
+- Compatability with 2.4.5 and EU4 1.13
 V1.1
 - Compatability with 2.3.5 patch and EU4 1.12
